@@ -1,0 +1,15 @@
+# These are the default or fallback config variables for your addon.
+#
+# Any config variables you want to give your users access to in
+# /_config/add-ons/boilerplate/boilerplate.yaml should have sensible
+# fallbacks in here.
+# That way, if they choose not to define variables, your add-on won't break.
+# If they want to override variables, they can do so.
+#
+# Your users should not modify this file.
+#
+# You can access these variables in your add-on by:
+# $this->config['my_config_var'] or
+# $this->fetchConfig('my_config_var', 'a fallback value')
+
+my_config_var: foo

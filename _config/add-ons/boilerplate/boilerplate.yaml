@@ -1,0 +1,12 @@
+# These are the config variables for your addon.
+#
+# You can access these variables in your add-on by:
+# $this->config['my_config_var'] or
+# $this->fetchConfig('my_config_var', 'a fallback value')
+#
+# A personal preference:
+# Define all your config vars in default.yaml, but only
+# display important ones that you want your users to customize in here.
+# If they want to override the defaults, they can do so in here.
+
+my_config_var: foo
