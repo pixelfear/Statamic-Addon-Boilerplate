@@ -1,6 +1,6 @@
 <?php
 
-class Tasks_boilerplate extends Plugin
+class Tasks_boilerplate extends Tasks
 {
 
 	/**
